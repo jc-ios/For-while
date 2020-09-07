@@ -8,6 +8,6 @@ for i in range(0, len(linea)//2):
         print("falso")
         break
 if esPalindrome:
-    print("es palindrome ")
+    print("es palindrome xxx")
 else:
     print("no es palindrome")
